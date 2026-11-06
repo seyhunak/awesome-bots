@@ -398,6 +398,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [botdirectory.ai](https://botdirectory.ai) ⭐ | Grok Bot setups | 100+ | Paste-ready prompts, API access |
 | [bots.fyi](https://bots.fyi) ⭐ | Web crawlers | 200+ | Vercel Bot Protection source, verification badges |
 | [Promptway](https://promptway.com/tools/bots) | Grok Bot jobs | 13 curated | Founder/ops-focused, weekly essay |
+| [Grok Bot Wiki](https://www.grokbotwiki.com/bots) 🆓 | Grok Bot templates | 4,000+ | Task/app filters, creator attribution and dated share-link checks |
 | [There's An AI For That](https://theresanaiforthat.com) | General AI tools | 10k+ | Task-based discovery |
 | [Futurepedia](https://www.futurepedia.io) | AI tools | 5k+ | Largest AI tool index |
 | [Product Hunt](https://www.producthunt.com) | New launches | Daily | Early access to new bots |
